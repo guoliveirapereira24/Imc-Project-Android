@@ -1,4 +1,6 @@
-<<<<<<< Original<?xml version="1.0" encoding="utf-8"?><manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<?xml version="1.0" encoding="utf-8"?>
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:dist="http://schemas.android.com/apk/distribution"
 package="com.example.projeto_imc">
 
@@ -23,10 +25,6 @@ package="com.example.projeto_imc">
     </activity>
 </application>
 
-</manifest>=======
+</manifest>
 
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
-<application>
-    <activity android:name="com.example.projeto_imc.ProfileActivity2"></activity>
-</application>
-</manifest>>>>>>>> Added
+
